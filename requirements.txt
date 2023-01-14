@@ -1,0 +1,15 @@
+requests
+seleniumbase
+webdriver-manager
+streamlit
+pandas
+pandas_ta
+plotly
+ta
+numpy
+datetime
+yfinance
+bs4
+prophet
+plotly
+matplotlib
